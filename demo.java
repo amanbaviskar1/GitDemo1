@@ -2,7 +2,7 @@ class demo
 {
 public static void main(String args[]) 
 {
-sop("demo")
+System.out.println("demo");
 
 }
 }
